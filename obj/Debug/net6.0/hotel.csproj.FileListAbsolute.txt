@@ -1,0 +1,15 @@
+C:\Users\mateu\Desktop\dotnet\hotel\bin\Debug\net6.0\hotel.exe
+C:\Users\mateu\Desktop\dotnet\hotel\bin\Debug\net6.0\hotel.deps.json
+C:\Users\mateu\Desktop\dotnet\hotel\bin\Debug\net6.0\hotel.runtimeconfig.json
+C:\Users\mateu\Desktop\dotnet\hotel\bin\Debug\net6.0\hotel.dll
+C:\Users\mateu\Desktop\dotnet\hotel\bin\Debug\net6.0\hotel.pdb
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.AssemblyInfo.cs
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.dll
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\refint\hotel.dll
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.pdb
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\hotel.genruntimeconfig.cache
+C:\Users\mateu\Desktop\dotnet\hotel\obj\Debug\net6.0\ref\hotel.dll
